@@ -1,4 +1,4 @@
-# [Batsaran]
+# Batsaran Bootstrap Extension
 
 Batsaran Bootstrap is an extension of the famous [Bootstrap](http://getbootstrap.com/), adding the following components:
 
